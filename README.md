@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning CSS, HTML, JavaScript and studying English with personal classes too
 - 👯 I’m looking to collaborate on systems development/apps
 - 🤔 I’m looking for help on find my first job as developer
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/his
 
 <br>
 <div>
